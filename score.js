@@ -1,1 +1,1 @@
-console.log("Total Score");
+console.log(3 + 3 * 5);
