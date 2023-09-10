@@ -1,1 +1,4 @@
-console.log(3 + 3 * 5);
+var a = 2;
+var b = 3;
+var c = 6;
+console.log(a + b * c);
